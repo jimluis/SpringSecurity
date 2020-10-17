@@ -1,4 +1,4 @@
-package com.jimluisf.springbootsecurity.security;
+package com.jimluisf.springbootsecurity.config;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.jimluisf.springbootsecurity.security;
+package com.jimluisf.springbootsecurity.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
